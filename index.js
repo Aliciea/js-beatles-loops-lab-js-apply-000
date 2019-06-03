@@ -11,12 +11,12 @@ function theBeatlesPlay(musicians, instruments) {
   return array;
 }
 function johnLennonFacts(arr) {
-  let anwser = [];
+  let answer = [];
   let i = 0;
   while(i < arr.length){
     answer.push(facts[i] + "!!!");
     i++;
   } 
-  return arr;
+  return answer;
 }
 
