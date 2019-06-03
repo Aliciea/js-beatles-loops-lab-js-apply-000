@@ -17,7 +17,7 @@ function johnLennonFacts(arr) {
     answer.push(arr[i] + "!!!");
     i++;
   } 
-  return answer(num);
+  return answer;
 }
 function iLoveTheBeatles(num) {
   let arr = [];
