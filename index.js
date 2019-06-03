@@ -17,13 +17,15 @@ function johnLennonFacts(arr) {
     answer.push(arr[i] + "!!!");
     i++;
   } 
-  return answer;
+  return answer(num);
 }
 function iLoveTheBeatles(num) {
   let arr = [];
   
   do {arr.push("I love the Beatles!") 
   num++;
-    } while
+    } while(num < 15);
+  
+  return arr;
 }
 
