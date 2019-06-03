@@ -19,5 +19,9 @@ function johnLennonFacts(arr) {
   } 
   return answer;
 }
-function 
+function iLoveTheBeatles(num) {
+  let arr = [];
+  let str = '';
+  do-while()
+}
 
